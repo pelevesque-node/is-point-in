@@ -15,6 +15,7 @@
     "url": "git+https://github.com/pelevesque/is-point-in.git"
   },
   "keywords": [
+    "math",
     "point",
     "inside",
     "shape",
