@@ -8,7 +8,7 @@ Checks if a point is inside a shape.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/is-point-in](https://www.npmjs.com/package/@pelevesque/is-point-in)
+https://www.npmjs.com/package/@pelevesque/is-point-in
 
 ## Installation
 
