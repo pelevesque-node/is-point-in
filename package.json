@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/is-point-in",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Checks if a point is inside a shape.",
   "main": "index.js",
   "engines": {
